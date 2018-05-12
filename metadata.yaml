@@ -1,0 +1,31 @@
+_repo: Stories-from-Le-Morte-D-Arthur-and-the-Mabinogion_15551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clay, Beatrice E. (Beatrice Elizabeth)
+    gutenberg_agent_id: '6119'
+    url: http://www.gutenberg.org/2009/agents/6119
+description: ''
+gutenberg_bookshelf:
+- Fantasy
+- Arthurian Legends
+gutenberg_issued: '2005-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Folklore'
+- !lcsh 'Arthurian romances -- Juvenile literature'
+- !lcsh 'Folklore -- Wales'
+- !lcsh 'Folklore -- England'
+- !lcsh 'Arthur, King -- Legends'
+- !lcc 'GR'
+title: Stories from Le Morte D'Arthur and the Mabinogion
+url: http://www.gutenberg.org/ebooks/15551
